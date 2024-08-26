@@ -4,4 +4,7 @@
 node_modules
 dist
 .cache
+
 /credentials.py
+
+text/*.txt
